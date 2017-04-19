@@ -1,0 +1,17 @@
+{
+  "name": "Electron-Webview-Bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/S--Minecraft/Electron-Webview-Bug",
+  "keywords": [
+    "Electron"
+  ],
+  "author": "S--Minecraft",
+  "devDependencies": {
+    "electron": "1.6.5"
+  }
+}
